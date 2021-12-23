@@ -1,8 +1,8 @@
 <h1> Hi there 👋 Arjun here , i like programming</h1> 
 
 
- -🔭 I’m currently learning pyhton,Js,C++<br><br>
- -And iam very fluent in languages like Html and CSS 👋 
+ <h2>😄 I’m currently learning pyhton , Js , C++ </h2>
+ <h2>And iam very fluent in languages like Html and CSS 👋 </h2>
 
 
 <center><img src = "https://i.pinimg.com/originals/9c/fb/09/9cfb09f0c029e1f8c938208a7e278d76.gif"></center>
@@ -11,7 +11,7 @@
 <br>
 <div align = "center">
     <img alt="Python" src="https://img.shields.io/badge/Python-1C1E26?style=for-the-badge&logo=Python&labelColor=1C1E26">
-   <img alt="CSS" src="https://img.shields.io/badge/CSS-1C1E26?style=for-the-badge&logo=CSS3&labelColor=1C1E26">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-1C1E26?style=for-the-badge&logo=CSS3&labelColor=1C1E26">
     <img alt="HTML" src="https://img.shields.io/badge/HTML-1C1E26?style=for-the-badge&logo=html5&labelColor=1C1E26">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-1C1E26?style=for-the-badge&logo=JavaScript&labelColor=1C1E26">
 </div>
@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+-  Pronouns: ...
 - ⚡ Fun fact: ...
 -->
