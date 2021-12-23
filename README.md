@@ -15,8 +15,8 @@
     <img alt="HTML" src="https://img.shields.io/badge/HTML-1C1E26?style=for-the-badge&logo=html5&labelColor=1C1E26">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-1C1E26?style=for-the-badge&logo=JavaScript&labelColor=1C1E26">
 </div>
-<h2>Stars earned</h2>
-     1 star ⭐
+<h2>Github stats</h2>
+    <img src="https://github-readme-stats.vercel.app/api?username=ArjunRathinam&show_icons=true&title_color=27D796&icon_color=B877DB&text_color=F9CBBE&bg_color=1C1E26">
 <center><img src = "https://th.bing.com/th/id/OIP.9z_sramIpxAodFYm8MAFUQHaHa?pid=ImgDet&w=626&h=626&rs=1"></center>
 
 <!--
