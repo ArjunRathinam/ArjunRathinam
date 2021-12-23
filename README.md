@@ -1,7 +1,7 @@
-### Hi there 👋 Arjun here , i like programming 
+<h1> Hi there 👋 Arjun here , i like programming</h1> 
 
-- 🔭 I’m currently learning pyhton,Js,C++
-- And iam very fluent in languages like Html and CSS 👋 
+<h2>- 🔭 I’m currently learning pyhton,Js,C++</h2>
+<h2>- And iam very fluent in languages like Html and CSS 👋 </h2>
 
 <h1>Skills:</h1>
 
