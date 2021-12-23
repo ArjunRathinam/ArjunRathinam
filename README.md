@@ -1,7 +1,8 @@
 <h1> Hi there 👋 Arjun here , i like programming</h1> 
 
-<h2>- 🔭 I’m currently learning pyhton,Js,C++</h2>
-<h2>- And iam very fluent in languages like Html and CSS 👋 </h2>
+
+ -🔭 I’m currently learning pyhton,Js,C++<br><br>
+ -And iam very fluent in languages like Html and CSS 👋 
 
 
 <center><img src = "https://i.pinimg.com/originals/9c/fb/09/9cfb09f0c029e1f8c938208a7e278d76.gif"></center>
@@ -14,6 +15,7 @@
     <img alt="HTML" src="https://img.shields.io/badge/HTML-1C1E26?style=for-the-badge&logo=html5&labelColor=1C1E26">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-1C1E26?style=for-the-badge&logo=JavaScript&labelColor=1C1E26">
 </div>
+
 
 <!--
 **ArjunRathinam/ArjunRathinam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
