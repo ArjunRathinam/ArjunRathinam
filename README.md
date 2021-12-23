@@ -15,7 +15,7 @@
     <img alt="HTML" src="https://img.shields.io/badge/HTML-1C1E26?style=for-the-badge&logo=html5&labelColor=1C1E26">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-1C1E26?style=for-the-badge&logo=JavaScript&labelColor=1C1E26">
 </div>
-
+<center><img src = "https://pluspng.com/img-png/github-octocat-logo-png-octodex-api-octodex-json-at-master-cocoaheads-miami-octodex-api-github-896.png"></center>
 
 <!--
 **ArjunRathinam/ArjunRathinam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
