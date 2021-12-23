@@ -3,6 +3,8 @@
 <h2>- 🔭 I’m currently learning pyhton,Js,C++</h2>
 <h2>- And iam very fluent in languages like Html and CSS 👋 </h2>
 
+
+<center><img src = "https://i.pinimg.com/originals/9c/fb/09/9cfb09f0c029e1f8c938208a7e278d76.gif"></center>
 <h1>Skills:</h1>
 
 <br>
