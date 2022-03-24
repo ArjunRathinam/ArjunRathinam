@@ -5,7 +5,7 @@
  <h2>And iam very fluent in languages like Html and CSS 👋 </h2>
 
 
-<center><img src = "https://i.pinimg.com/originals/9c/fb/09/9cfb09f0c029e1f8c938208a7e278d76.gif"></center>
+<center><img src = "https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg"></center>
 <h1>Skills:</h1>
 
 <br>
