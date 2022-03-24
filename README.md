@@ -24,23 +24,23 @@
     <table>
         <tr>
         <td><a href="https://github.com/AdvickV/Drawing-App" target="_blank">
-            <img alt="Drawing-App" src="https://github-readme-stats.vercel.app/api/pin/?username=AdvickV&repo=Drawing-App&show_icons=true&title_color=27D796&icon_color=B877DB&text_color=F9CBBE&bg_color=1C1E26">
+            <img alt="Drawing-App" src="https://github-readme-stats.vercel.app/api/pin/?username=ArjunRathinam&repo=Sony_Ai&show_icons=true&title_color=27D796&icon_color=B877DB&text_color=F9CBBE&bg_color=1C1E26">
         </a></td>
         <td><a href="https://github.com/AdvickV/Breakout" target="_blank">
-            <img alt="Breakout" src="https://github-readme-stats.vercel.app/api/pin/?username=AdvickV&repo=Breakout&show_icons=true&title_color=27D796&icon_color=B877DB&text_color=F9CBBE&bg_color=1C1E26">
+            <img alt="Breakout" src="https://github-readme-stats.vercel.app/api/pin/?username=ArjunRathinam&repo=The-seven-continents-of-the-world-&show_icons=true&title_color=27D796&icon_color=B877DB&text_color=F9CBBE&bg_color=1C1E26">
         </a></td>
         </tr>
         <tr>
         <td><a href="https://github.com/AdvickV/TypingTester" target="_blank">
-            <img alt="TypingTester" src="https://github-readme-stats.vercel.app/api/pin/?username=AdvickV&repo=TypingTester&show_icons=true&title_color=27D796&icon_color=B877DB&text_color=F9CBBE&bg_color=1C1E26">
+            <img alt="TypingTester" src="https://github-readme-stats.vercel.app/api/pin/?username=ArjunRathinam&repo=password-generator&show_icons=true&title_color=27D796&icon_color=B877DB&text_color=F9CBBE&bg_color=1C1E26">
         </a></td>
         <td><a href="https://github.com/AdvickV/Piano-Tiles-Bot" target="_blank">
-            <img alt="Piano-Tiles-Bot" src="https://github-readme-stats.vercel.app/api/pin/?username=AdvickV&repo=Piano-Tiles-Bot&show_icons=true&title_color=27D796&icon_color=B877DB&text_color=F9CBBE&bg_color=1C1E26">
+            <img alt="Piano-Tiles-Bot" src="https://github-readme-stats.vercel.app/api/pin/?username=ArjunRathinam&repo=project1&show_icons=true&title_color=27D796&icon_color=B877DB&text_color=F9CBBE&bg_color=1C1E26">
         </a></td>
         </tr>
         <tr>
         <td><a href="https://github.com/AdvickV/Dictionary" target="_blank">
-            <img alt="Dictionary" src="https://github-readme-stats.vercel.app/api/pin/?username=AdvickV&repo=Dictionary&show_icons=true&title_color=27D796&icon_color=B877DB&text_color=F9CBBE&bg_color=1C1E26">
+            <img alt="Dictionary" src="https://github-readme-stats.vercel.app/api/pin/?username=ArjunRathinam&repo=Jarvopad-notepad-&show_icons=true&title_color=27D796&icon_color=B877DB&text_color=F9CBBE&bg_color=1C1E26">
         </a></td>
         <td><a href="https://github.com/AdvickV/1-Minute-News" target="_blank">
             <img alt="1-Minute-News" src="https://github-readme-stats.vercel.app/api/pin/?username=AdvickV&repo=1-Minute-News&show_icons=true&title_color=27D796&icon_color=B877DB&text_color=F9CBBE&bg_color=1C1E26">
