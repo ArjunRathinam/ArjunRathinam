@@ -19,7 +19,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=ArjunRathinam&show_icons=true&title_color=27D796&icon_color=B877DB&text_color=F9CBBE&bg_color=1C1E26">
 <center><img src = "https://th.bing.com/th/id/OIP.9z_sramIpxAodFYm8MAFUQHaHa?pid=ImgDet&w=626&h=626&rs=1"></center>
 
-
+<h1>Projects:</h1>
 <div align = "center">
     <table>
         <tr>
@@ -43,12 +43,12 @@
             <img alt="Dictionary" src="https://github-readme-stats.vercel.app/api/pin/?username=ArjunRathinam&repo=Jarvopad-notepad-&show_icons=true&title_color=27D796&icon_color=B877DB&text_color=F9CBBE&bg_color=1C1E26">
         </a></td>
         <td><a href="https://github.com/AdvickV/1-Minute-News" target="_blank">
-            <img alt="1-Minute-News" src="https://github-readme-stats.vercel.app/api/pin/?username=AdvickV&repo=1-Minute-News&show_icons=true&title_color=27D796&icon_color=B877DB&text_color=F9CBBE&bg_color=1C1E26">
+            <img alt="1-Minute-News" src="https://github-readme-stats.vercel.app/api/pin/?username=ArjunRathinam&repo=Random-otp-generator-using-python&show_icons=true&title_color=27D796&icon_color=B877DB&text_color=F9CBBE&bg_color=1C1E26">
         </a></td>
         </tr>
         <tr>
         <td><a href="https://github.com/AdvickV/ImageWatermarkingApp" target="_blank">
-            <img alt="ImageWatermarkingApp" src="https://github-readme-stats.vercel.app/api/pin/?username=AdvickV&repo=ImageWatermarkingApp&show_icons=true&title_color=27D796&icon_color=B877DB&text_color=F9CBBE&bg_color=1C1E26">
+            <img alt="ImageWatermarkingApp" src="https://github-readme-stats.vercel.app/api/pin/?username=ArjunRathinam&repo=caeser-cipher&show_icons=true&title_color=27D796&icon_color=B877DB&text_color=F9CBBE&bg_color=1C1E26">
         </a></td>
         <td><a href="https://github.com/AdvickV/Wikipedia-App" target="_blank">
             <img alt="Wikipedia-App" src="https://github-readme-stats.vercel.app/api/pin/?username=AdvickV&repo=Wikipedia-App&show_icons=true&title_color=27D796&icon_color=B877DB&text_color=F9CBBE&bg_color=1C1E26">
