@@ -1,5 +1,17 @@
-<center><h1> Hi there 👋 Arjun here , i like programming</h1></center>
+<head>
+<style type="text/css"> 
+<!-- 
+p.centered
+{
+  text-align:center;
+}
 
+</style>
+</head>
+<body>
+  <p class="centered"><h1> Hi there 👋 Arjun here , i like programming</h1></p>
+</body>
+  
 
  <h2>😄 I’m currently learning pyhton , Js , C++ </h2>
  <h2>And iam very fluent in languages like Html and CSS 👋 </h2>
